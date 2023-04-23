@@ -10,6 +10,7 @@
   <a href="https://twitter.com/TsumiMark">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=MarkTsumi01&style=flat-square&color=blue" alt=""/>
 </div>
 
 **MarkTsumi01/MarkTsumi01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
