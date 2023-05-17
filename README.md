@@ -42,11 +42,11 @@
 
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Data Science, Cyber Security, DevOps and Financial
-- 👯 I'm looking to collaborate on tech company or anyone who love in technology
-- 🤔 I'm looking for help with data science and security
-- 💬 Ask me about ...
-- 📫 How to reach me: <a href="https://www.facebook.com/nukla.kub">Facebook</a>
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning Data Science, Cyber Security, DevOps and Financial.
+- 👯 I'm looking to collaborate on tech company or anyone who love in technology.
+- 🤔 I'm looking for help with data science and security.
+- 💬 Ask me about : You can ask me everything.
+- 📫 How to reach me: <a href="https://www.facebook.com/nukla.kub">Facebook</a> & <a> href="https://twitter.com/TsumiMark">Twitter</a>
+- 😄 Pronouns: Pls call me "Mark" or "Marktsumi"
+- ⚡ Fun fact: I really love programming. But sometimes I think what exactly do I love?
 
