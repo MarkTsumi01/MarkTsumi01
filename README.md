@@ -46,7 +46,7 @@
 - 👯 I'm looking to collaborate on tech company or anyone who love in technology.
 - 🤔 I'm looking for help with data science and security.
 - 💬 Ask me about : You can ask me everything.
-- 📫 How to reach me: <a href="https://www.facebook.com/nukla.kub">Facebook</a> & <a href="https://twitter.com/TsumiMark">Twitter</a>
+- 📫 How to reach me: <a href="https://www.facebook.com/nukla.kub">Facebook</a> & <a href="https://twitter.com/TsumiMark">Twitter</a> & <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox">Gmail</a>
 - 😄 Pronouns: Pls call me "Mark" or "Marktsumi"
 - ⚡ Fun fact: I really love programming. But sometimes I think what exactly do I love?
 
